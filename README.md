@@ -1,3 +1,3 @@
-# Kuwait Premium Demo Sites
+# Kuwait Mobile Premium Demo Sites
 
-Updated with 30-image galleries, clean demo hours/location blocks, niche-specific package cards, and stronger sales-oriented outreach positioning. Stock visuals only; replace with approved business assets.
+Mobile-first premium rebuild. Fixed image URLs with fallbacks, luxury/futuristic/rose-gold/warm theme systems, and 30-image galleries.
