@@ -1,3 +1,3 @@
 # Kuwait Premium Demo Sites
 
-Single-page app containing 30 customized Kuwait outreach demo concepts. All images are stock placeholders. Replace with approved business assets after permission.
+Rebuilt as realistic local-business demo websites: services, packages, gallery, reviews layout, FAQ, booking form and WhatsApp CTA. Stock visuals only; replace with approved business assets.
